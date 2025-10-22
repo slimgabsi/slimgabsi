@@ -12,6 +12,8 @@ Welcome to my GitHub profile!
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PixiJS](https://img.shields.io/badge/PixiJS-8E44AD?style=for-the-badge&logo=pixijs&logoColor=white)
+
 
 
 ## 🕹️ Fun Projects
